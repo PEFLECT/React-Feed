@@ -2,6 +2,13 @@
   text-align: center;
 }
 
+.Navbar {
+  background-color: black;
+  display: block;
+  color: aliceblue;
+  padding-left: 16px;
+}
+
 .App-logo {
   height: 40vmin;
 }
